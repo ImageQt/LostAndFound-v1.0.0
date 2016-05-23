@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>pic1.jpg</file>
+        <file>Lost_And_Found.ico</file>
+    </qresource>
+</RCC>
